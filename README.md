@@ -19,8 +19,8 @@ Predicted output from t5:
 
  ### Implementation details: ###
 
-- We have used a T5-based Huggingface model(https://huggingface.co/JulesBelveze/t5-small-headline-generator) to finetune on our dataset
+- We have used a T5-based Huggingface [model](https://huggingface.co/JulesBelveze/t5-small-headline-generator) to finetune on our dataset
 - Dataset split into train and test
 - Ran for 12 epochs
-- Paraphrased using another Paraphraser(https://huggingface.co/ramsrigouthamg/t5_sentence_paraphraser)
+- Paraphrased using another [Paraphraser](https://huggingface.co/ramsrigouthamg/t5_sentence_paraphraser)
 
