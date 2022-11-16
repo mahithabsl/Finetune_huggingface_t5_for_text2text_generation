@@ -5,7 +5,7 @@
 
 
 ### Goal: ### 
-We have multiple some small/simple notes in the following fashion.
+We have multiple small/simple notes in the following fashion.
 
 Input:
 - James Elliot leaving the company was a loss.
